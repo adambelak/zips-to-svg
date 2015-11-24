@@ -1,0 +1,1381 @@
+16:58:57.787 TRACE c.e.t.x.h.SvgGenerator - Start unmarshalling...
+16:58:58.315 TRACE c.e.t.x.h.SvgGenerator - Start converting zips to html...
+16:58:58.356 DEBUG c.e.t.x.h.svg.Colors - Generated color for NY: #DA5231
+16:58:58.357 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 632.774170, cy = 518.347270
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.190470, cy = 516.068970
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.54220, cy = 515.440870
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.641170, cy = 515.06480
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.585140, cy = 515.348380
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 630.558890, cy = 518.270530
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.603040, cy = 517.113150
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 631.97830, cy = 517.204690
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.017380, cy = 515.493260
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 632.672680, cy = 515.419070
+16:58:58.358 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.254940, cy = 515.703250
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.593220, cy = 515.552080
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 634.557450, cy = 515.529080
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.126820, cy = 520.014690
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.504590, cy = 519.377990
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 632.738440, cy = 519.764650
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 631.45230, cy = 515.221090
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 631.350070, cy = 517.308130
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 629.602940, cy = 518.867160
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 630.650890, cy = 519.126780
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 635.279130, cy = 516.63840
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.010430, cy = 517.499730
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.180460, cy = 515.63940
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 630.602460, cy = 520.304060
+16:58:58.359 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 634.376890, cy = 516.398750
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.966420, cy = 515.427460
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 631.013390, cy = 520.275320
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 632.130910, cy = 519.76720
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 631.913040, cy = 515.186090
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.646770, cy = 518.545140
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 629.718450, cy = 515.197150
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 634.016940, cy = 517.823940
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 629.440270, cy = 519.849010
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 631.180750, cy = 517.040480
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 630.090330, cy = 517.478650
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 635.097320, cy = 515.54470
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 629.192010, cy = 516.162730
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 627.474530, cy = 516.642190
+16:58:58.360 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 630.663110, cy = 515.46970
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 624.919320, cy = 517.809770
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 624.919320, cy = 517.809770
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 624.919320, cy = 517.809770
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 629.602940, cy = 518.867160
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 630.277730, cy = 516.7640
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 635.847930, cy = 516.830240
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.254940, cy = 515.703250
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 628.604030, cy = 515.238040
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.614770, cy = 515.641820
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.016980, cy = 515.568910
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.016980, cy = 515.568910
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 631.388360, cy = 519.38960
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.71550, cy = 517.496020
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.607470, cy = 520.07710
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.312830, cy = 518.719080
+16:58:58.361 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 641.012810, cy = 519.929860
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.58620, cy = 520.32490
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 634.362790, cy = 519.881460
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.925710, cy = 519.980050
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.925710, cy = 519.980050
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 642.21690, cy = 517.78610
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.702490, cy = 517.019830
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.05980, cy = 517.731380
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 642.217120, cy = 516.358390
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.894280, cy = 519.900060
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.419670, cy = 517.870350
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.419670, cy = 517.870350
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.419670, cy = 517.870350
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.925710, cy = 519.980050
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 641.161360, cy = 516.669070
+16:58:58.362 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.925710, cy = 519.980050
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.736560, cy = 519.61690
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.862580, cy = 519.782190
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.808350, cy = 519.806690
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.560660, cy = 520.005010
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 644.052310, cy = 517.351280
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.607260, cy = 518.970330
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.607260, cy = 518.970330
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 643.886390, cy = 516.406190
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.304810, cy = 518.185310
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 643.61220, cy = 516.680420
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 642.465150, cy = 518.378440
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 644.052310, cy = 517.351280
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 642.569420, cy = 517.936710
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 641.834170, cy = 516.326530
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.351750, cy = 520.01480
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.376110, cy = 518.124160
+16:58:58.363 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.044570, cy = 520.087670
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 645.396440, cy = 518.766530
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 635.033930, cy = 518.794810
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 641.130120, cy = 519.544780
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.49190, cy = 519.040080
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 641.28030, cy = 518.034240
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 641.006430, cy = 515.525940
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 642.918620, cy = 516.339730
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 647.035330, cy = 516.762640
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.982260, cy = 517.935110
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.253590, cy = 517.409080
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 633.925710, cy = 519.980050
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.801150, cy = 517.750420
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.694750, cy = 516.956310
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.607470, cy = 520.07710
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 632.043970, cy = 519.811780
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.312830, cy = 518.719080
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 642.115010, cy = 518.619710
+16:58:58.364 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 642.115010, cy = 518.619710
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 636.927640, cy = 517.991020
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 635.067820, cy = 520.026330
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 650.362850, cy = 516.777150
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 650.362850, cy = 516.777150
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 650.362850, cy = 516.777150
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 650.362850, cy = 516.777150
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 650.362850, cy = 516.777150
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.592630, cy = 516.71840
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.592630, cy = 516.71840
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 652.653060, cy = 522.657890
+16:58:58.365 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.964320, cy = 515.340990
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.229970, cy = 515.483530
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.318670, cy = 515.566160
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.421410, cy = 515.491720
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.401410, cy = 515.558130
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.566480, cy = 515.492650
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.519130, cy = 515.621040
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.493980, cy = 515.779820
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.376810, cy = 515.809310
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.081150, cy = 515.931920
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.338760, cy = 516.095710
+16:58:58.366 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.632920, cy = 515.892250
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.88540, cy = 516.036080
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.502270, cy = 515.989450
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.371960, cy = 516.306240
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.280410, cy = 516.148260
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.367 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.339860, cy = 516.55130
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.003080, cy = 515.680890
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.034970, cy = 515.422390
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.034970, cy = 515.422390
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.034970, cy = 515.422390
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.42990, cy = 516.432050
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 637.418920, cy = 516.410610
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.258240, cy = 516.732980
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.160930, cy = 516.333550
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.339860, cy = 516.55130
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.409560, cy = 516.129420
+16:58:58.368 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.339860, cy = 516.55130
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.313490, cy = 515.868050
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.595930, cy = 515.623560
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.607070, cy = 515.567830
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.84610, cy = 515.712160
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.851110, cy = 516.031850
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.862710, cy = 516.376780
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.877050, cy = 516.408570
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 638.863940, cy = 516.90580
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.107710, cy = 516.618670
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.099010, cy = 516.629960
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.099010, cy = 516.629960
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 639.394670, cy = 515.895380
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.223410, cy = 515.865480
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.275050, cy = 516.066450
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.61120, cy = 516.542590
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.275050, cy = 516.066450
+16:58:58.369 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.400680, cy = 516.265340
+16:58:58.370 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 640.275050, cy = 516.066450
+16:58:58.370 DEBUG c.e.t.x.h.svg.Colors - Generated color for MA: #AB0565
+16:58:58.372 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=EAST BOSTON, state=MA]
+16:58:58.372 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=NORTH WALTHAM, state=MA]
+16:58:58.373 DEBUG c.e.t.x.h.svg.Colors - Generated color for RI: #411B48
+16:58:58.373 DEBUG c.e.t.x.h.svg.Colors - Generated color for NH: #94905C
+16:58:58.373 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DUNBARTON, state=NH]
+16:58:58.373 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=GILFORD, state=NH]
+16:58:58.374 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CHICHESTER, state=NH]
+16:58:58.374 DEBUG c.e.t.x.h.svg.Colors - Generated color for ME: #6A7F3D
+16:58:58.375 DEBUG c.e.t.x.h.svg.Colors - Generated color for VT: #234EE0
+16:58:58.375 DEBUG c.e.t.x.h.svg.Colors - Generated color for CT: #E29BD5
+16:58:58.376 DEBUG c.e.t.x.h.svg.Colors - Generated color for NJ: #2E3EA7
+16:58:58.376 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WATCHUNG, state=NJ]
+16:58:58.376 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WEEHAWKEN, state=NJ]
+16:58:58.376 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=TOWNSHIP OF WASHINGTON, state=NJ]
+16:58:58.376 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WOODCLIFF LAKE, state=NJ]
+16:58:58.376 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=ABSECON, state=NJ]
+16:58:58.376 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HILLSBOROUGH, state=NJ]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.377 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.378 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.379 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.380 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.381 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.382 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.383 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.384 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.385 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.386 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.387 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.388 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.389 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.389 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.389 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.389 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.389 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.389 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AE]
+16:58:58.389 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SYRACUSE, state=NY]
+16:58:58.390 DEBUG c.e.t.x.h.svg.Colors - Generated color for PA: #5A92EF
+16:58:58.390 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MECHANICSBURG, state=PA]
+16:58:58.390 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HANOVER, state=PA]
+16:58:58.390 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HAZLETON, state=PA]
+16:58:58.390 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=EAGLEVILLE, state=PA]
+16:58:58.391 DEBUG c.e.t.x.h.svg.Colors - Generated color for DE: #E4AA26
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DOVER, state=DE]
+16:58:58.391 DEBUG c.e.t.x.h.svg.Colors - Generated color for DC: #7FC538
+16:58:58.391 DEBUG c.e.t.x.h.svg.Colors - Generated color for VA: #E7793B
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WASHINGTON, state=DC]
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WASHINGTON, state=DC]
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WASHINGTON, state=DC]
+16:58:58.391 DEBUG c.e.t.x.h.svg.Colors - Generated color for MD: #29373D
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=UPPER MARLBORO, state=MD]
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=GAITHERSBURG, state=MD]
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MC LEAN, state=VA]
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MC LEAN, state=VA]
+16:58:58.391 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HARRISONBURG, state=VA]
+16:58:58.392 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIDLOTHIAN, state=VA]
+16:58:58.392 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=RICHMOND, state=VA]
+16:58:58.392 DEBUG c.e.t.x.h.svg.Colors - Generated color for WV: #388F6E
+16:58:58.392 DEBUG c.e.t.x.h.svg.Colors - Generated color for NC: #7D354F
+16:58:58.392 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=ASHEBORO, state=NC]
+16:58:58.392 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SANFORD, state=NC]
+16:58:58.392 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CHAPEL HILL, state=NC]
+16:58:58.392 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HENDERSON, state=NC]
+16:58:58.392 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=RALEIGH, state=NC]
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CHARLOTTE, state=NC]
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WAYNESVILLE, state=NC]
+16:58:58.393 DEBUG c.e.t.x.h.svg.Colors - Generated color for SC: #832E8C
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=JONESVILLE, state=SC]
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MYRTLE BEACH, state=SC]
+16:58:58.393 DEBUG c.e.t.x.h.svg.Colors - Generated color for GA: #E94E1A
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LAWRENCEVILLE, state=GA]
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=KENNESAW, state=GA]
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=KENNESAW, state=GA]
+16:58:58.393 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MILLEDGEVILLE, state=GA]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=ORANGE PARK, state=FL]
+16:58:58.394 DEBUG c.e.t.x.h.svg.Colors - Generated color for FL: #1EC6CC
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SAINT AUGUSTINE, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DAYTONA BEACH, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LADY LAKE, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=JACKSONVILLE, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=TALLAHASSEE, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DESTIN, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DEBARY, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIAMI, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BRANDON, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LUTZ, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LUTZ, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SEBRING, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SEBRING, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DAVENPORT, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DAVENPORT, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LAKE WALES, state=FL]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.394 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AA]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BRADENTON, state=FL]
+16:58:58.395 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BRADENTON, state=FL]
+16:58:58.396 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=ARCADIA, state=FL]
+16:58:58.396 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=NORTH PORT, state=FL]
+16:58:58.396 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=NORTH PORT, state=FL]
+16:58:58.396 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BROOKSVILLE, state=FL]
+16:58:58.396 DEBUG c.e.t.x.h.svg.Colors - Generated color for AL: #5EDE0C
+16:58:58.396 DEBUG c.e.t.x.h.svg.Colors - Generated color for TN: #CBFF62
+16:58:58.396 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CORDOVA, state=TN]
+16:58:58.396 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CROSSVILLE, state=TN]
+16:58:58.396 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CROSSVILLE, state=TN]
+16:58:58.396 DEBUG c.e.t.x.h.svg.Colors - Generated color for MS: #6D9351
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DIBERVILLE, state=MS]
+16:58:58.397 DEBUG c.e.t.x.h.svg.Colors - Generated color for KY: #3AF8D3
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HILLVIEW, state=KY]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIGRATE, state=KY]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIGRATE, state=KY]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIGRATE, state=KY]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIGRATE, state=KY]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIGRATE, state=KY]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MIGRATE, state=KY]
+16:58:58.397 DEBUG c.e.t.x.h.svg.Colors - Generated color for OH: #13D7FB
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=GROVEPORT, state=OH]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=GROVEPORT, state=OH]
+16:58:58.397 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=STRONGSVILLE, state=OH]
+16:58:58.398 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CINCINNATI, state=OH]
+16:58:58.398 DEBUG c.e.t.x.h.svg.Colors - Generated color for IN: #66711D
+16:58:58.398 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=INDIANAPOLIS, state=IN]
+16:58:58.398 DEBUG c.e.t.x.h.svg.Colors - Generated color for MI: #9B6705
+16:58:58.398 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=TROY, state=MI]
+16:58:58.398 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WARREN, state=MI]
+16:58:58.398 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LANSING, state=MI]
+16:58:58.398 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=KALAMAZOO, state=MI]
+16:58:58.399 DEBUG c.e.t.x.h.svg.Colors - Generated color for IA: #2FDBA1
+16:58:58.399 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DES MOINES, state=IA]
+16:58:58.399 DEBUG c.e.t.x.h.svg.Colors - Generated color for WI: #915E7E
+16:58:58.399 DEBUG c.e.t.x.h.svg.Colors - Generated color for MN: #9B8120
+16:58:58.399 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WAITE PARK, state=MN]
+16:58:58.400 DEBUG c.e.t.x.h.svg.Colors - Generated color for SD: #7A1C0C
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SIOUX FALLS, state=SD]
+16:58:58.400 DEBUG c.e.t.x.h.svg.Colors - Generated color for ND: #24A3D1
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BISMARCK, state=ND]
+16:58:58.400 DEBUG c.e.t.x.h.svg.Colors - Generated color for MT: #786A97
+16:58:58.400 DEBUG c.e.t.x.h.svg.Colors - Generated color for IL: #9F1D22
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HANOVER PARK, state=IL]
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LAKE IN THE HILLS, state=IL]
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BENSENVILLE, state=IL]
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CHICAGO, state=IL]
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CHICAGO, state=IL]
+16:58:58.400 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=PEORIA, state=IL]
+16:58:58.401 DEBUG c.e.t.x.h.svg.Colors - Generated color for MO: #F5D962
+16:58:58.401 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SAINT LOUIS, state=MO]
+16:58:58.401 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SAINT ROBERT, state=MO]
+16:58:58.401 DEBUG c.e.t.x.h.svg.Colors - Generated color for KS: #B7E66F
+16:58:58.401 DEBUG c.e.t.x.h.svg.Colors - Generated color for NE: #79AE22
+16:58:58.401 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=OMAHA, state=NE]
+16:58:58.401 DEBUG c.e.t.x.h.svg.Colors - Generated color for LA: #D86317
+16:58:58.402 DEBUG c.e.t.x.h.svg.Colors - Generated color for AR: #7739FB
+16:58:58.402 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CONWAY, state=AR]
+16:58:58.402 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LITTLE ROCK, state=AR]
+16:58:58.402 DEBUG c.e.t.x.h.svg.Colors - Generated color for OK: #298F94
+16:58:58.402 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=OKLAHOMA CITY, state=OK]
+16:58:58.402 DEBUG c.e.t.x.h.svg.Colors - Generated color for TX: #25523F
+16:58:58.402 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=MC KINNEY, state=TX]
+16:58:58.402 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CORSICANA, state=TX]
+16:58:58.402 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DALLAS, state=TX]
+16:58:58.402 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=GILMER, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=ATHENS, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=PALESTINE, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=NACOGDOCHES, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=WEATHERFORD, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DENTON, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DENTON, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=AUSTIN, state=TX]
+16:58:58.403 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=EL PASO, state=TX]
+16:58:58.403 DEBUG c.e.t.x.h.svg.Colors - Generated color for CO: #6AEA9B
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LITTLETON, state=CO]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LITTLETON, state=CO]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DENVER, state=CO]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BOULDER, state=CO]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BRIGHTON, state=CO]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=BRIGHTON, state=CO]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DURANGO, state=CO]
+16:58:58.404 DEBUG c.e.t.x.h.svg.Colors - Generated color for WY: #ACAE2F
+16:58:58.404 DEBUG c.e.t.x.h.svg.Colors - Generated color for ID: #8E26DA
+16:58:58.404 DEBUG c.e.t.x.h.svg.Colors - Generated color for UT: #CA742E
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SALT LAKE CITY, state=UT]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SALT LAKE CITY, state=UT]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SALT LAKE CITY, state=UT]
+16:58:58.404 DEBUG c.e.t.x.h.svg.Colors - Generated color for AZ: #0A8CF6
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=PHOENIX, state=AZ]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APACHE JUNCTION, state=AZ]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=GILBERT, state=AZ]
+16:58:58.404 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=PEORIA, state=AZ]
+16:58:58.405 DEBUG c.e.t.x.h.svg.Colors - Generated color for NM: #57AB65
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SANTA FE, state=NM]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SANTA FE, state=NM]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SANTA FE, state=NM]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=ROSWELL, state=NM]
+16:58:58.405 DEBUG c.e.t.x.h.svg.Colors - Generated color for NV: #AA588B
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=PAHRUMP, state=NV]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=PAHRUMP, state=NV]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HENDERSON, state=NV]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=HENDERSON, state=NV]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=NORTH LAS VEGAS, state=NV]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=NORTH LAS VEGAS, state=NV]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SPARKS, state=NV]
+16:58:58.405 DEBUG c.e.t.x.h.svg.Colors - Generated color for CA: #7C4627
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LONG BEACH, state=CA]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CANYON COUNTRY, state=CA]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SANTA CLARITA, state=CA]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=EL TORO, state=CA]
+16:58:58.405 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=LAGUNA HILLS, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=ANAHEIM, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=DALY CITY, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SUNNYVALE, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=AMERICAN CANYON, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=OAKLAND, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=TRACY, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=TRACY, state=CA]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.406 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.407 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.408 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=APO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.409 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=FPO, state=AP]
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.278290, cy = 486.09350
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -294.545190, cy = 479.442130
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.579290, cy = 507.307740
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -296.451620, cy = 480.623460
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.13950, cy = 486.55450
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.913830, cy = 486.582160
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -261.656220, cy = 491.503250
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -347.011720, cy = 464.266610
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -251.484830, cy = 500.883110
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.36450, cy = 483.68150
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -260.22930, cy = 492.748280
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -294.827960, cy = 477.864080
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -295.123920, cy = 480.200090
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -296.177650, cy = 479.795110
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -278.825110, cy = 484.164930
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -254.380150, cy = 504.065440
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -258.182910, cy = 497.772630
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -252.62030, cy = 504.354810
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -254.380150, cy = 504.065440
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -294.865620, cy = 477.807690
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -259.483080, cy = 503.810960
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -258.453290, cy = 507.217020
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -255.079380, cy = 499.208440
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -254.380150, cy = 504.065440
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -270.7660, cy = 488.369440
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -278.833160, cy = 484.148730
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.353040, cy = 483.7230
+16:58:58.410 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -262.591660, cy = 491.407560
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.466670, cy = 491.333620
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.391210, cy = 484.043560
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.258030, cy = 508.998330
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -258.179870, cy = 500.276290
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -254.380150, cy = 504.065440
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -259.365650, cy = 503.258770
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -295.302540, cy = 480.740910
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.466670, cy = 491.333620
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.519070, cy = 501.121280
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.39550, cy = 483.31250
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -254.380150, cy = 504.065440
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -294.061970, cy = 479.258030
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -299.213510, cy = 480.545720
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -270.125330, cy = 489.077340
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -250.321040, cy = 504.181270
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -258.749230, cy = 506.560870
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -293.084710, cy = 478.940450
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -297.137920, cy = 480.287150
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -264.699150, cy = 492.764580
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -293.953860, cy = 477.926860
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.769570, cy = 497.738990
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -294.329920, cy = 479.716210
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -270.25440, cy = 488.38990
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.63850, cy = 485.370
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -250.348590, cy = 504.307230
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -267.176140, cy = 490.801770
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.02050, cy = 483.89050
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -269.52830, cy = 491.871460
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -252.484290, cy = 500.148340
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -294.993420, cy = 480.690780
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -294.303280, cy = 479.294470
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.466670, cy = 491.333620
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -263.202420, cy = 491.673360
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -299.213510, cy = 480.545720
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -272.571570, cy = 488.236430
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -251.256570, cy = 504.650550
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -256.225280, cy = 509.478630
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -251.668210, cy = 500.649530
+16:58:58.411 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -252.809740, cy = 499.84940
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -254.380150, cy = 504.065440
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -253.779610, cy = 499.646440
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -254.380150, cy = 504.065440
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -251.522680, cy = 506.099770
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -263.735060, cy = 490.957250
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -252.012670, cy = 500.358620
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -251.160930, cy = 502.011220
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.946620, cy = 484.88050
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -251.063080, cy = 501.805250
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.466670, cy = 491.333620
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -252.505690, cy = 505.594770
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.477350, cy = 484.6760
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -263.259230, cy = 491.441360
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.123220, cy = 485.411450
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -263.294990, cy = 492.462370
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -281.634150, cy = 484.46750
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -281.813560, cy = 485.626110
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -265.664930, cy = 490.984640
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -296.861930, cy = 480.332910
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.151510, cy = 486.004520
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -407.7160, cy = 772.099750
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.223030, cy = 483.49020
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.39650, cy = 486.520490
+16:58:58.412 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.019790, cy = 486.268210
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.40850, cy = 483.28850
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -279.407310, cy = 483.290740
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -280.7490, cy = 486.810
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -380.218150, cy = 451.401680
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.413 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2747.862970, cy = 565.557430
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2643.621690, cy = 627.743360
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2815.031160, cy = 628.617030
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2815.031160, cy = 628.617030
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2815.031160, cy = 628.617030
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2815.031160, cy = 628.617030
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2757.408040, cy = 548.098650
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2757.408040, cy = 548.098650
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2757.408040, cy = 548.098650
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2964.102910, cy = 588.595040
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = 2964.102910, cy = 588.595040
+16:58:58.414 DEBUG c.e.t.x.h.svg.Colors - Generated color for OR: #FCB76F
+16:58:58.414 DEBUG c.e.t.x.h.svg.Colors - Generated color for WA: #4814F6
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SAMMAMISH, state=WA]
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SAMMAMISH, state=WA]
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=SEATTLE, state=WA]
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=CAMANO ISLAND, state=WA]
+16:58:58.414 INFO  c.e.t.x.h.s.domain.Circle - The latitude or the longitude is null: Record [latitude=null, longitude=null, city=TUMWATER, state=WA]
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.869810, cy = 87.123760
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.600080, cy = 88.339310
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.938670, cy = 88.115890
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.719280, cy = 87.947160
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -196.903180, cy = 87.409080
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.041650, cy = 87.425910
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.761570, cy = 88.480970
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.232030, cy = 87.949240
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.784180, cy = 88.554320
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.004760, cy = 89.316760
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.084260, cy = 87.960460
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.861740, cy = 87.851230
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.120190, cy = 88.842460
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.623710, cy = 89.087990
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.38090, cy = 88.105060
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.943380, cy = 88.421870
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -467.874120, cy = 157.59820
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -467.874120, cy = 157.59820
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -235.055670, cy = 122.988290
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -325.58130, cy = 145.694060
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 110.378990
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -217.07810, cy = 101.628840
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -321.739060, cy = 98.700210
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.415 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -149.910270, cy = 85.290340
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.246310, cy = 86.061660
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -214.429830, cy = 98.125040
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 110.378990
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -306.545220, cy = 143.491250
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.701590, cy = 95.085220
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -149.910270, cy = 85.290340
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -157.53350, cy = 94.638340
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -285.231380, cy = 109.598190
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.245180, cy = 86.968690
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 110.378990
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -325.58130, cy = 145.694060
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -149.910270, cy = 85.290340
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -191.406230, cy = 90.423260
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -149.910270, cy = 85.290340
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -467.874120, cy = 157.59820
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -198.803930, cy = 88.128120
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -213.624220, cy = 99.435470
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -216.555670, cy = 99.634170
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -248.236290, cy = 102.475370
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.970780, cy = 117.312960
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -211.163010, cy = 96.474250
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -204.079580, cy = 95.779590
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -325.58130, cy = 145.694060
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -271.594590, cy = 112.544010
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -224.728760, cy = 122.371840
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.970780, cy = 117.312960
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.970780, cy = 117.312960
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.416 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -255.7120, cy = 70.542840
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 110.378990
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -216.555670, cy = 99.634170
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -342.872280, cy = 76.675390
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -267.881990, cy = 113.445750
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -212.766330, cy = 92.993040
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 110.378990
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -467.874120, cy = 157.59820
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -215.172860, cy = 99.50860
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.970780, cy = 117.312960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.970780, cy = 117.312960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -196.339160, cy = 77.427160
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -274.857810, cy = 124.712130
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.288060, cy = 84.769570
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -266.484180, cy = 117.312960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -193.743350, cy = 84.186950
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -467.874120, cy = 157.59820
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -304.855060, cy = 146.496440
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -217.009150, cy = 105.505140
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.021230, cy = 97.47190
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -332.376360, cy = 78.827690
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.151670, cy = 77.195640
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -212.479350, cy = 98.899660
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -271.594590, cy = 112.544010
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -208.532380, cy = 94.863860
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -187.836870, cy = 82.672590
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.151670, cy = 77.195640
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -149.910270, cy = 85.290340
+16:58:58.417 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 110.378990
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -216.555670, cy = 99.634170
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -200.092390, cy = 82.795010
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -365.180690, cy = 161.44870
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -157.751520, cy = 83.14430
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.783980, cy = 84.687020
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -200.037580, cy = 81.033920
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -51.812560, cy = 116.682020
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -331.189470, cy = 96.852650
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -365.253330, cy = 161.347050
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -149.910270, cy = 85.290340
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -197.151670, cy = 77.195640
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -194.403110, cy = 88.911360
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -257.970780, cy = 117.312960
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -175.220520, cy = 53.559530
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -174.633360, cy = 52.091970
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -176.44180, cy = 51.671790
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.866760, cy = 64.564290
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -172.077480, cy = 52.192350
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -179.377470, cy = 51.479450
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -174.051340, cy = 53.001610
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -178.564430, cy = 50.525380
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -179.997910, cy = 51.398740
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -175.355490, cy = 50.513520
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -173.88840, cy = 51.735550
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -171.565880, cy = 49.635470
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -169.247880, cy = 55.108980
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -168.981950, cy = 51.254090
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -239.939880, cy = 33.067450
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -202.389420, cy = -2.204720
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -191.93010, cy = 30.702540
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -180.94930, cy = 51.290260
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.866760, cy = 64.564290
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -140.026480, cy = 61.294480
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -239.939880, cy = 33.067450
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -134.224780, cy = 68.925390
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -140.026480, cy = 61.294480
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.418 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.866760, cy = 64.564290
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.866760, cy = 64.564290
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -239.939880, cy = 33.067450
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -317.808440, cy = 31.347440
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -199.866760, cy = 64.564290
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -342.497130, cy = 11.129520
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -234.511250, cy = 58.825360
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -338.00760, cy = 61.113290
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -140.026480, cy = 61.294480
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -239.939880, cy = 33.067450
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -201.618680, cy = 44.909620
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -178.267090, cy = 51.409220
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -140.026480, cy = 61.294480
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -140.026480, cy = 61.294480
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -140.026480, cy = 61.294480
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -239.939880, cy = 33.067450
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -356.723440, cy = 52.443960
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -298.439240, cy = 31.315580
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -210.250850, cy = 47.736250
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -239.939880, cy = 33.067450
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -162.75980, cy = 51.439450
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -274.410730, cy = -4.946930
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -45.239460, cy = 116.264390
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -45.89690, cy = 115.943430
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -46.173830, cy = 116.229260
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -41.977860, cy = 116.16520
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -45.859540, cy = 124.994750
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -47.003480, cy = 115.505870
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -43.976420, cy = 117.236920
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -51.812560, cy = 116.682020
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -51.812560, cy = 116.682020
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -56.811530, cy = 106.873120
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -54.315610, cy = 119.023450
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -39.359960, cy = 130.264460
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -51.812560, cy = 116.682020
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -29.31950, cy = 132.329440
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -53.183480, cy = 129.191820
+16:58:58.419 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -28.279480, cy = 134.64050
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -53.148520, cy = 105.432470
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -52.850610, cy = 122.017510
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -41.977860, cy = 116.16520
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -16.74090, cy = 145.993260
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -20.032440, cy = 144.820790
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -20.032440, cy = 144.820790
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -15.804070, cy = 148.732260
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -31.170220, cy = 144.866990
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -28.259030, cy = 147.912940
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -20.032440, cy = 144.820790
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -30.90680, cy = 144.456070
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -15.668270, cy = 149.056750
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -20.032440, cy = 144.820790
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -16.75370, cy = 146.046410
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -23.644070, cy = 135.501070
+16:58:58.420 INFO  c.e.t.x.h.s.domain.Circle - The calculated coordinates are invalid. cx = -14.326820, cy = 144.579930
+16:58:58.424 TRACE c.e.t.x.h.SvgGenerator - Start marshalling...

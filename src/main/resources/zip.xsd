@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.epam.com/training/zip"
+	elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema"
+	xmlns:zip="http://www.epam.com/training/zip">
+
+	<simpleType name="ZipType">
+		<restriction base="integer">
+			<minExclusive value="0" />
+			<maxExclusive value="99999" />
+		</restriction>
+	</simpleType>
+
+	<simpleType name="CoordinateType">
+		<restriction base="decimal">
+			<totalDigits value="9" />
+			<fractionDigits value="6" />
+		</restriction>
+	</simpleType>
+
+	<simpleType name="StateType">
+		<restriction base="string">
+			<length value="2" />
+		</restriction>
+	</simpleType>
+
+	<simpleType name="ZipClassType">
+		<restriction base="string">
+			<enumeration value="UNIQUE" />
+			<enumeration value="STANDARD" />
+			<enumeration value="MILITARY" />
+			<enumeration value="PO BOX ONLY" />
+		</restriction>
+	</simpleType>
+
+
+	<complexType name="ZipRecordType">
+		<sequence>
+			<element name="zip" type="zip:ZipType" />
+			<element name="latitude" type="zip:CoordinateType" maxOccurs="1"
+				minOccurs="0" />
+			<element name="longitude" type="zip:CoordinateType"
+				maxOccurs="1" minOccurs="0" />
+			<element name="city" type="string" />
+			<element name="state" type="zip:StateType" />
+			<element name="county" type="string" maxOccurs="1" minOccurs="0" />
+			<element name="zip-class" type="zip:ZipClassType" />
+		</sequence>
+	</complexType>
+
+	<complexType name="ZipListType">
+		<sequence>
+			<element name="record" type="zip:ZipRecordType" maxOccurs="unbounded"
+				minOccurs="1" />
+		</sequence>
+	</complexType>
+
+	<element name="zips" type="zip:ZipListType" />
+</schema>
