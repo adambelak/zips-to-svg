@@ -1,4 +1,4 @@
-package com.epam.training.xml.homework;
+package com.epam.training.xml.homework.jaxb;
 
 import java.io.File;
 import java.io.InputStream;
@@ -17,18 +17,18 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.xml.sax.InputSource;
 
-import com.epam.training.xml.homework.svg.domain.Body;
-import com.epam.training.xml.homework.svg.domain.Circle;
-import com.epam.training.xml.homework.svg.domain.Html;
-import com.epam.training.xml.homework.svg.domain.Svg;
-import com.epam.training.xml.homework.zip.domain.ObjectFactory;
-import com.epam.training.xml.homework.zip.domain.Zips;
+import com.epam.training.xml.homework.jaxb.svg.domain.Body;
+import com.epam.training.xml.homework.jaxb.svg.domain.Circle;
+import com.epam.training.xml.homework.jaxb.svg.domain.Html;
+import com.epam.training.xml.homework.jaxb.svg.domain.Svg;
+import com.epam.training.xml.homework.jaxb.zip.domain.ObjectFactory;
+import com.epam.training.xml.homework.jaxb.zip.domain.Zips;
 
 
-public class SvgGenerator {
+public class SvgGeneratorWithJAXB {
 
 	private static final File OUTPUT_FILE = new File("zip.html");
-	private static final Logger LOGGER = LoggerFactory.getLogger(SvgGenerator.class);
+	private static final Logger LOGGER = LoggerFactory.getLogger(SvgGeneratorWithJAXB.class);
 	
 	public void run() {
 		Optional<Zips> zips = unmarshalling();

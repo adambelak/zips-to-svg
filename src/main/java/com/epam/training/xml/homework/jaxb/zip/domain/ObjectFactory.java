@@ -1,4 +1,4 @@
-package com.epam.training.xml.homework.zip.domain;
+package com.epam.training.xml.homework.jaxb.zip.domain;
 
 import javax.xml.bind.JAXBElement;
 import javax.xml.bind.annotation.XmlElementDecl;

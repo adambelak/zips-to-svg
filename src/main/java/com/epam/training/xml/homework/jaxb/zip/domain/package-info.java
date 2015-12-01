@@ -8,4 +8,4 @@
 //
 
 @javax.xml.bind.annotation.XmlSchema(namespace = "http://www.epam.com/training/zip", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
-package com.epam.training.xml.homework.zip.domain;
+package com.epam.training.xml.homework.jaxb.zip.domain;

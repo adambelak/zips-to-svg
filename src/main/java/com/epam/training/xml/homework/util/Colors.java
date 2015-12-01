@@ -1,4 +1,4 @@
-package com.epam.training.xml.homework.svg;
+package com.epam.training.xml.homework.util;
 
 import java.util.HashMap;
 import java.util.Map;

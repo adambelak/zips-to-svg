@@ -1,4 +1,4 @@
-package com.epam.training.xml.homework.svg.domain;
+package com.epam.training.xml.homework.jaxb.svg.domain;
 
 import java.io.Serializable;
 

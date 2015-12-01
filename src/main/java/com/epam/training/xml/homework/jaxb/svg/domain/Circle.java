@@ -1,4 +1,4 @@
-package com.epam.training.xml.homework.svg.domain;
+package com.epam.training.xml.homework.jaxb.svg.domain;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
@@ -12,8 +12,8 @@ import javax.xml.bind.annotation.XmlValue;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.epam.training.xml.homework.svg.Colors;
-import com.epam.training.xml.homework.zip.domain.Record;
+import com.epam.training.xml.homework.jaxb.zip.domain.Record;
+import com.epam.training.xml.homework.util.Colors;
 
 @XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
